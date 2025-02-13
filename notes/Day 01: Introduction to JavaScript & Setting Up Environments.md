@@ -17,6 +17,11 @@ Date: 14-02-2025
 - Things up
 - async/defer
 
+"defer" is used in the script tag to execute the script after all the HTML has been rendered properly.
+To refer a tab inside the script we use the "id" tag.
+Here in the HTML code below we have a div with id="dynamic-paragraph-container".
+We can use this id to refer it in the code.
+
 The code below uses defer and script
 
 ```html
@@ -37,6 +42,7 @@ The code below uses defer and script
 ```
 
 This is the content of script.js
+Here we dynamically add the text "This text is comming form script" in the div that has id="dynamic-paragraph-container".
 
 ```JavaScript
 // This is the content of script.js
