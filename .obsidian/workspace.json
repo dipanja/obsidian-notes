@@ -11,10 +11,14 @@
             "id": "e7dc72208860dbff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/Day 01: Introduction to JavaScript & Setting Up Environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 01: Introduction to JavaScript & Setting Up Environments"
             }
           }
         ]
@@ -164,6 +168,7 @@
   },
   "active": "e7dc72208860dbff",
   "lastOpenFiles": [
+    "notes/Day 01: Introduction to JavaScript & Setting Up Environments.md~",
     "templates/general.md",
     "notes/testing the templates.md~",
     "notes/testing the templates.md",
@@ -171,7 +176,6 @@
     "notes/test.md~",
     "templates/temp.md~",
     "notes/Day 01: Introduction to JavaScript & Setting Up Environments.md",
-    "notes/Day 01: Introduction to JavaScript & Setting Up Environments.md~",
     "notes/video.md",
     "Untitled.canvas",
     "notes/next note.md",

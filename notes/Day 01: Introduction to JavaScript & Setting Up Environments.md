@@ -12,8 +12,7 @@ Date: 14-02-2025
 ### Module: JavaScript Fundamental
 
 - Basics
-- First
-- Script
+- First Script
 - Setting
 - Things up
 - async/defer
