@@ -52,4 +52,4 @@ document.getElementById('dynamic-paragraph-container').innerText  = "This text i
 
 ### Resources
 
-[Day 01: Introduction to JavaScript & Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE&t=0s)
+YouTube: [Day 01: Introduction to JavaScript & Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE&t=0s)
