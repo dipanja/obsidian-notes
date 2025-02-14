@@ -2,14 +2,13 @@
 id: "Day 01: Introduction to JavaScript & Setting Up Environments"
 aliases: []
 tags:
-  - JavaScript
+  - javascript
+  - javascript/fundamental
 ---
-
-## Day 01: Introduction to JavaScript & Setting Up Environments
 
 Date: 14-02-2025
 
-### Module: JavaScript Fundamental
+# Introduction to JavaScript & Setting Up Environments
 
 - Basics
 - First Script
@@ -52,4 +51,6 @@ document.getElementById('dynamic-paragraph-container').innerText  = "This text i
 
 ### Resources
 
-YouTube: [Day 01: Introduction to JavaScript & Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE&t=0s)
+YouTube: [01: Introduction to JavaScript & Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE&t=0s)
+
+All the topics are here [[40 Days of JavaScript]]
