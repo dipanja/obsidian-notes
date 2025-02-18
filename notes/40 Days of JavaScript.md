@@ -17,3 +17,4 @@ This is a course by _Tapash Adhikary_.
 ## Topic
 
 [[01: Introduction to JavaScript & Setting Up Environments]]
+[[02: Variables and Data Types]]
