@@ -49,7 +49,7 @@ console.log("Script loaded and executed!"); // This will log to the console
 document.getElementById('dynamic-paragraph-container').innerText  = "This text is comming from script"
 ```
 
-### Resources
+## Resources
 
 YouTube: [01: Introduction to JavaScript & Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE&t=0s)
 

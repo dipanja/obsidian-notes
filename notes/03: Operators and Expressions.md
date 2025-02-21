@@ -12,12 +12,12 @@ Time: 01:27
 
 # 03: Operators and Expressions
 
-### Operators
+## Operators
 
 - `Operators`: Symbols (+ - \* /)
 - `Operands`: x + y, x and y are the Operands
 
-- #### Arithmetic:
+### Arithmetic:
 
 ```javascript
 let a = 10;
@@ -44,7 +44,7 @@ let l_name = "paul";
 console.log(f_name + l_name); // dipanjanpaul
 ```
 
-- #### Assigment:
+### Assigment:
 
 ```javascript
 let x = 10;
@@ -55,7 +55,7 @@ x *= 3; // x = x * 3
 x /= 3; // x = x / 3
 ```
 
-- #### Comparison:
+### Comparison:
 
 ```javascript
 // always use === for Comparison
@@ -67,17 +67,17 @@ console.log(undefined === undefined); // true
 // hence it is not a good idea to compare two objects
 ```
 
-- #### Relational:
+### Relational:
 
 ```javascript
 //
 ```
 
-- #### Logical:
+### Logical:
 
-  - `&&`: logical AND
-  - `||`: logical OR
-  - `??`: Nullish coalescing operator
+- `&&`: logical AND
+- `||`: logical OR
+- `??`: Nullish coalescing operator
 
 ```javascript
 // op1 && op2
@@ -111,14 +111,14 @@ let a3 = false ?? "dipanjan"; // a3 = false
 let a4 = 0 ?? "dipanjan"; // a4 = 0
 ```
 
-- #### Bitwise:
+### Bitwise:
 
-  - `&`: AND
-  - `|`: OR
-  - `^`: XOR
-  - `~`: NOT
-  - `<<`: left shift
-  - `>>`: right shift
+- `&`: AND
+- `|`: OR
+- `^`: XOR
+- `~`: NOT
+- `<<`: left shift
+- `>>`: right shift
 
 ```javascript
 // 15 & 9 this is bitwise and
@@ -140,7 +140,7 @@ let a4 = 0 ?? "dipanjan"; // a4 = 0
 9 >> 2; // 2
 ```
 
-- #### Conditional (ternary):
+### Conditional (ternary):
 
 ```javascript
 // condition ? value_1 : value_2
@@ -150,8 +150,9 @@ let age = 18;
 age > 18 ? "Audult" : "Minor";
 ```
 
-- #### Grouping:
-  - Grouping is same as in BODMAS rule in math. the thing in brackets will have higher presidence
+### Grouping:
+
+- Grouping is same as in BODMAS rule in math. the thing in brackets will have higher presidence
 
 ```javascript
 let p = 1;
@@ -164,8 +165,9 @@ p + r * q; // 7
 (p + q) * r; // 9
 ```
 
-- #### typeOf:
-  - typeOf returns the type of the selected instance as strig
+### typeOf:
+
+- typeOf returns the type of the selected instance as strig
 
 ```javascript
 typeOf "dipanjan" // "string"
@@ -177,17 +179,17 @@ typeOf numbers // "object"
 typeOf null; // 'object'
 ```
 
-- #### instanceOf:
+### instanceOf:
 
 ```javascript
 //
 ```
 
-### Expression:
+## Expression:
 
 - `x = 2`: assignment expression
 - `x = 4 + 3`: is a evaluating expression
 
-### Resources
+## Resources
 
 - YouTube: [03: Operators and Expressions](https://www.youtube.com/watch?v=vI95K-_JLOw)

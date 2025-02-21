@@ -12,7 +12,11 @@ Time: 20:40
 
 # 02: Variables and Data Types
 
-##### `let`, `const`, `var` are used to declare a variable.
+## Variables
+
+### `let` `const` `var`
+
+`let`, `const`, `var` are used to declare a variable.
 
 - `let`: Block-scoped, can be reassigned
 - `const`: Block-scoped, _cannot_ be reassigned
@@ -24,13 +28,15 @@ let storage_name = "value";
 const num = 324;
 ```
 
-##### _passed by value_
+### _passed by value_
 
 When a variable of premetive type is assigned to another variable the value of the variable is passed. No changes happen to the original variable that is assigned.
 
-##### _passed by reference_
+### _passed by reference_
 
-##### Primitive Data Types
+## Data Types
+
+### Primitive Data Types
 
 1. `String`
 2. `Number`
@@ -40,7 +46,7 @@ When a variable of premetive type is assigned to another variable the value of t
 6. `BigInt`
 7. `Symbol`
 
-##### Non-Primitive Data Types
+### Non-Primitive Data Types
 
 1. `Object`: Collection of key-value pairs
 2. `Array`: Ordered list of values
@@ -57,13 +63,13 @@ let student = {
 console.log(student.name);
 ```
 
-### Resources
+## Resources
 
 - YouTube: [02: Variables and Data Types](https://www.youtube.com/watch?v=tVqy4Tw0i64)
 - [AST Explorer:](https://astexplorer.net/)
 - All the topics are here [[40 Days of JavaScript]]
 
-#### Images
+## Images
 
 ![apdhs image](image-resources/APDHS.jpeg)
 how
