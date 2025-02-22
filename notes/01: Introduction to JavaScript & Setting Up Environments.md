@@ -7,6 +7,7 @@ tags:
 ---
 
 Date: 14-02-2025
+Time: 20:20
 
 # Introduction to JavaScript & Setting Up Environments
 

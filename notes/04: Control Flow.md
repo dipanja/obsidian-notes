@@ -1,6 +1,7 @@
 ---
 id: "04: Control Flow"
-aliases: 
+aliases:
+  - "04: Control Flow"
 tags:
   - javascript
   - javascript/fundamental
