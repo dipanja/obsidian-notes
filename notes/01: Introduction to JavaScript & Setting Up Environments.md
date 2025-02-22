@@ -1,6 +1,7 @@
 ---
 id: "Day 01: Introduction to JavaScript & Setting Up Environments"
-aliases: []
+aliases:
+  - "Day 01: Introduction to JavaScript & Setting Up Environments"
 tags:
   - javascript
   - javascript/fundamental
