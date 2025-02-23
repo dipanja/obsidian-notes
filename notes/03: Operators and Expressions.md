@@ -193,3 +193,4 @@ typeOf null; // 'object'
 ## Resources
 
 - YouTube: [03: Operators and Expressions](https://www.youtube.com/watch?v=vI95K-_JLOw)
+  All the topics are here [40 Days of JavaScript](notes/40%20Days%20of%20JavaScript.md)
