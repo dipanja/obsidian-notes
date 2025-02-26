@@ -85,4 +85,4 @@ do {
 ## Resources
 
 - YouTube: [05: Loops and Iterations](https://www.youtube.com/watch?v=MDR43-2GvtA)
-- All the topics are here [40 Days of JavaScript](notes/40%20Days%20of%20JavaScript.md)
+- All the topics are here [[40 Days of JavaScrip]]

@@ -19,4 +19,4 @@ Time: 02:14
 ## Resources
 
 - YouTube: [04: Control Flow](https://www.youtube.com/watch?v=Fn_DhBu3VyU)
-- All the topics are here [40 Days of JavaScript](notes/40%20Days%20of%20JavaScript.md)
+- All the topics are here [[40 Days of JavaScript]]
