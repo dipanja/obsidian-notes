@@ -22,3 +22,6 @@ This is a course by _Tapash Adhikary_.
 [[04: Control Flow]]
 [[05: Loops and Iterations]]
 [[06: Functions and Arrow Functions]]
+[[07: Mini Project]]
+[[08: Execution Contest & Call Stack]]
+[[09: Hoisting and Temporal Dead Zone]]
