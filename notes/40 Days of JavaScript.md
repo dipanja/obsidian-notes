@@ -26,3 +26,4 @@ This is a course by _Tapash Adhikary_.
 [[08: Execution Contest & Call Stack]]
 [[09: Hoisting and Temporal Dead Zone]]
 [[10: Scope and Scope Chain]]
+[[11: Closures with Examples]]
