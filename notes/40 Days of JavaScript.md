@@ -27,3 +27,6 @@ This is a course by _Tapash Adhikary_.
 [[09: Hoisting and Temporal Dead Zone]]
 [[10: Scope and Scope Chain]]
 [[11: Closures with Examples]]
+[[12: Objects]]
+[[13: This in JavaScript]]
+[[14: Error Handling]]
